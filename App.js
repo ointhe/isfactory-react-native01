@@ -5,9 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <NaviBar>
-          <Text>GGGGGGGGGGGGGGGGGGGGGGGGG!</Text>
-        </NaviBar>
+        <NaviBar/>
         <View style={styles.mainview}>
           <Text>Open up App.js to start working on your app!</Text>
         </View>
