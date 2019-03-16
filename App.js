@@ -1,7 +1,6 @@
 import React , { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import NaviBar from './src/components/NaviBar';
-// import { Icon } from 'react-native-elements';
 export default class App extends Component {
   render() {
     return (
